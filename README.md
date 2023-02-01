@@ -8,6 +8,7 @@ Other inputs are in the Python file "plt_approx.py".
 
 # EXAMPLE
 Example output for the values already in the relevant files is shown below:
+
 ![Example Output](plt_output.png)
 
 # THE MATH
