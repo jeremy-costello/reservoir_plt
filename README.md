@@ -1,5 +1,5 @@
 # reservoir_plt
-PLT flow calculations for multi-zone reservoir.
+PLT flow calculations for multi-zone reservoirs.
 
 # INPUTS
 Put kh values into "kh_inputs.csv". \
